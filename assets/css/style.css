@@ -1,0 +1,26 @@
+body {
+    background-image: url(../images/train-schedule.jpg);
+    background-size: cover;
+    background-position: center center;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.jumbotron {
+    background-color: transparent !important;
+    color: white;
+    font-family: 'Erica One', cursive;
+    font-size: 112px;
+}
+
+h1 {
+    font-size: 112px;
+    text-shadow: 2px 2px black;
+}
+
+h2 {
+    font-size: 25px;
+}
+
+.card {
+    opacity: .9;
+}
